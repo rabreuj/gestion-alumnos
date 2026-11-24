@@ -1,0 +1,4 @@
+com\cesur\gestionalumnos\model\Alumno.class
+com\cesur\gestionalumnos\service\AlumnoService.class
+com\cesur\gestionalumnos\repository\AlumnoRepository.class
+com\cesur\gestionalumnos\Main.class
